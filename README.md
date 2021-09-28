@@ -2,7 +2,7 @@
 
 An animated progress bar for React Native.
 
-![](https://i.imgur.com/EGufppz.gif)
+![](https://i.imgur.com/N39m09bm.gif)
 
 ## Getting started
 
